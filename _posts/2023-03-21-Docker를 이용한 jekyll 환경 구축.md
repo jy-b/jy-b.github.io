@@ -16,7 +16,7 @@ tags: [docker, jekyll]     # TAG names should always be lowercase
 1. jekyll theme 설치 및 로컬 실행<br>
 [Chirpy Starter](https://github.com/cotes2020/chirpy-starter/generate)
 를 이용하여 레포지토리 생성 후<br>
-NAS상의 디렉토리에 clone 후 권한 설정을 해준 뒤 컨테이너를 생성하면 로컬 서버를 실행된다<br>
+NAS상의 디렉토리에 clone 후 권한 설정을 해준 뒤 컨테이너를 생성하면 로컬 서버를 실행한다<br>
 
 	``` bash
 	docker run --rm --volume=$path:"/srv/jekyll" -p 4000:4000  -it jekyll/jekyll jekyll serve
