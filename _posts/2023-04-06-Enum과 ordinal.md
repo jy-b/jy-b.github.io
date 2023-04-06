@@ -69,6 +69,7 @@ public enum GameMode {
 참조 문서<br>
 [Java Document / Enum](https://docs.oracle.com/en/java/javase/20/docs/api/java.base/java/lang/Enum.html)<br>
 [Effective Java / ordinal 메서드 대신 인스턴스 필드를 사용해라](https://dahye-jeong.gitbook.io/java/java/effective_java/2021-06-06-use-instant-field)
+[Effective Java / ordinal 인덱싱 대신 EnumMap](https://dahye-jeong.gitbook.io/java/java/effective_java/2021-06-06-use-enummap)
 
 기타 참고<br>
 [우아한 형제 Tech Blog / Enum 활용](https://techblog.woowahan.com/2527/)
