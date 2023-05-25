@@ -31,7 +31,7 @@ In summary, while SSDs have become increasingly prevalent in the DBMS market and
 태생적인 차이로 인해 SSD와 HDD의 성능은 비교 할수 없을 정도로 많은 차이가 나며<br>
 랜덤 작업뿐만 아니라 순차 작업에서의 속도 차이도 크다.<br><br>
 
-![Mysql 환경에서의 Disk Type별 tpmP 성능 비교](https://phx02pap004files.storage.live.com/y4m9D5wA4jbMnnzsI3sMje3INpu1z35aq-3yK_1iW7vH0v0Yp1yNHrzlzhShp0OUWyCfovENjGfkgFzrLCa1M8DJeiWcVzZ2C2xc-R9mFbVvEgMwDNFLjhDzuo_LeivHcSSIwOVTAfiYM7XTVIBADiBYFaShxDRPNsZJ2ehRY8xoT7UTsIcb7H5M_8rCBLPGRRC?width=1103&height=477&cropmode=none)
+<img src="https://phx02pap004files.storage.live.com/y4m9D5wA4jbMnnzsI3sMje3INpu1z35aq-3yK_1iW7vH0v0Yp1yNHrzlzhShp0OUWyCfovENjGfkgFzrLCa1M8DJeiWcVzZ2C2xc-R9mFbVvEgMwDNFLjhDzuo_LeivHcSSIwOVTAfiYM7XTVIBADiBYFaShxDRPNsZJ2ehRY8xoT7UTsIcb7H5M_8rCBLPGRRC?width=660&height=285&cropmode=none" width="660" height="285" />
 <font size="1">tpmP= 분당 처리되는 신규 트랜잭션</font><br>
 환경에 따라 격차가 감소 할 수는 있지만 SSD가 HDD보다 DBMS에서도 성능적인 관점에서 우위를 보인다<br><br>
 
@@ -59,10 +59,10 @@ HDD 스토리지가 적합한 사용 사례
 상황에 맞추어 SSD와 HDD, 혹은 하이브리드로 구성 하는것이 바람직해 보인다.<br><br>
 
 단순히 SSD의 절대적인 성능이 뛰어나기 때문에 성능이 좋다! 말고는<br>
-구체적으로 설명하지 못하는 상황이라 더 자세한 내용은 Database 관련 공부를 더 하고 나서 작성해 보는걸로
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fbwiy4o%2FbtryyCek0kA%2FIBQ3oumkK9UVaELr8SKfnK%2Fimg.png">
+구체적으로 설명하지 못하는 상황이라 더 자세한 내용은 Database 관련 공부를 더 하고 나서 작성해 보는걸로<br>
+<img src="https://i.namu.wiki/i/dDdliS9lDLHUEunjEdVY1ZWoS1sfi2F3b0uaxReoaC5FrddP3O8GFGUe8vkleQEjBDP4vtA_vDbs0Sxt8z8XbQ.webp">
 <br><br>
-reference<br><br>
+Reference<br><br>
 [SSD를 쓰면 DBMS가 빨라질까?](https://d2.naver.com/helloworld/7005)
 [Google Cloud - SSD와 HDD 스토리지 중 선택](https://cloud.google.com/sql/docs/mysql/choosing-ssd-hdd?hl=ko)<br>
 [Mysql Oracle - MySQL Performance Best Practice](https://www.youtube.com/watch?v=dF8qmCOSE7g)<br>
