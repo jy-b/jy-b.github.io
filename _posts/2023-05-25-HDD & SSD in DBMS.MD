@@ -31,7 +31,8 @@ In summary, while SSDs have become increasingly prevalent in the DBMS market and
 태생적인 차이로 인해 SSD와 HDD의 성능은 비교 할수 없을 정도로 많은 차이가 나며<br>
 랜덤 작업뿐만 아니라 순차 작업에서의 속도 차이도 크다.<br><br>
 
-<img data-src="https://phx02pap004files.storage.live.com/y4m9D5wA4jbMnnzsI3sMje3INpu1z35aq-3yK_1iW7vH0v0Yp1yNHrzlzhShp0OUWyCfovENjGfkgFzrLCa1M8DJeiWcVzZ2C2xc-R9mFbVvEgMwDNFLjhDzuo_LeivHcSSIwOVTAfiYM7XTVIBADiBYFaShxDRPNsZJ2ehRY8xoT7UTsIcb7H5M_8rCBLPGRRC?width=1103&height=477&cropmode=none" width="1103" height="477" />
+[Mysql Data interface별 성능 비교](https://1drv.ms/i/s!Ar8IFQmf1Y3Ig7wN2FD9lXqX_OPFIg?e=h4Ql29)<br>
+<img data-src="https://1drv.ms/i/s!Ar8IFQmf1Y3Ig7wN2FD9lXqX_OPFIg?e=h4Ql29">
 <font size="1">tpmP= 분당 처리되는 신규 트랜잭션</font><br>
 환경에 따라 격차가 감소 할 수는 있지만 SSD가 HDD보다 DBMS에서도 성능적인 관점에서 우위를 보인다<br><br>
 
